@@ -1,4 +1,50 @@
+.cabecalho{
+color: brown;
+padding-left: 20px;
+}
+#banner {
+    width: 100%;
+}
+.Principal {
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+.Titulocentralizado {
+    color: brown;
+    text-align: center
+}
+
 p {
     text-align: center;
-    background: #CCCCCC;
+}
+
+#missao {
+    font-size: 30px
+
+}
+em strong {
+    color: brown;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 14% ;
+}
+
+
+.itens{
+    font-style: italic;
+    
+}
+
+.Beneficios {
+    background-color: #FFF;
+    padding: 20px;
+}
+.imagembeneficios {
+    width: 50%;
 }
