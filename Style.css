@@ -1,6 +1,10 @@
 .cabecalho{
-color: brown;
+
+color: white;
 padding-left: 20px;
+background-color: black;
+border-bottom:double;
+border-color: #cccccc;
 }
 #banner {
     width: 100%;
@@ -11,7 +15,7 @@ padding-left: 20px;
 }
 
 .Titulocentralizado {
-    color: brown;
+    color: black;
     text-align: center
 }
 
@@ -24,7 +28,7 @@ p {
 
 }
 em strong {
-    color: brown;
+    color:rgb(51, 8, 8);
 }
 
 
@@ -44,6 +48,8 @@ ul{
 .Beneficios {
     background-color: #FFF;
     padding: 20px;
+    border: #cccccc;
+    border-style: groove;
 }
 .imagembeneficios {
     width: 50%;
